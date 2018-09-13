@@ -1,0 +1,171 @@
+
+.info {
+    background-color: #F8F5EA;
+}
+
+.weboptions {
+    padding-top: 30px; 
+    padding-left: 175px;
+    padding-right: 175px;
+    background-color: #F3F0DE;
+}
+.offer {
+    color: #979F02;
+    font-size: 15px
+}
+.offers {
+    color: #979F02;
+}
+.offertext {
+    color: grey
+}
+
+.readmore {
+    color: red;
+}
+
+.search {
+    background-color: #FDFACE;
+    color: rgb(88, 3, 0)
+}
+.navbar li{
+    display: inline;
+    list-style: none;
+}
+.navbar {
+        margin-left: 175;
+        background-image: linear-gradient(#fc7d7d, #DD493C);
+
+}
+
+
+
+.buttons {
+    background-color: #DD493C;
+    color: #FDFACE;
+    border: 2px solid #DD493C;
+    border-radius: 5px;
+    padding: 10px 24px;
+    margin-top: 20px;
+    margin-right: 15px;
+    margin-left: -40px
+    
+    
+}
+buttons li {
+    padding: 15px;
+}
+
+.cup{
+    padding-left: 100px;
+}
+
+.cuptext{
+    padding-bottom: 25px
+}
+
+.fork {
+    padding-left: 100px;
+}
+
+.heart {
+    padding-left: 100px;
+    
+}
+
+
+.buttons:hover {
+    background-color: #FDFACE; /* Green */
+    color: black;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.Resteraunt {
+    color: white;
+    font-size: 48px;
+    margin-bottom: 20px;
+
+}
+
+.quote {
+    margin-left: 175px;
+}
+.logo {
+
+    padding-left: 175px;
+}
+.topbar {
+    background-color: #DD493C;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.clientlogo {
+    background-color: #64655F;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.bottombar{
+    background-color: #5A5B55;
+    padding-left: 100px;
+    padding-right: 100px;
+    color: white
+
+}
+
+.about {
+    font-size: 15px;
+}
+
+.paraone {
+    font-size: 11px;
+    color: #b4b181;
+    font-style: oblique;
+    font-weight: bold
+}
+ .paratwo{
+     font-size: 11px;
+     font-weight: 50;
+     font-style: italic;
+     color: #b4b181;
+ }
+
+.title {
+    font-size: 11px;
+    color: #b4b181;
+}
+
+.res {
+    font-style: italic;
+    color: #662000;
+    font-weight: 100;
+    background-color: #F8F5EA;
+    padding-left: 175px;
+}
+
+.bottombar {
+    padding: 20px 100px 20px 100px;
+}
+
+.readmores {
+    color: white
+}
+
+.para {
+    font-size: 11px;
+    color: #b4b181
+}
+
+.footer{
+    background-color: #3F403A;
+    color: white;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.hero {
+
+}
+
